@@ -1,0 +1,5 @@
+F:\Personal\C_Sharp\Projects\Test\Test\Test\bin\Debug\Test.exe
+F:\Personal\C_Sharp\Projects\Test\Test\Test\bin\Debug\Test.pdb
+F:\Personal\C_Sharp\Projects\Test\Test\Test\obj\x86\Debug\Test.exe
+F:\Personal\C_Sharp\Projects\Test\Test\Test\obj\x86\Debug\Test.pdb
+F:\Personal\C_Sharp\Projects\Test\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
